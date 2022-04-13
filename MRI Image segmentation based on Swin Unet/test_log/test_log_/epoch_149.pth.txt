@@ -1,0 +1,222 @@
+[09:47:28.609] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[09:47:28.610] epoch_149.pth
+[09:47:28.792] 12 test iterations per epoch
+[09:47:51.716] idx 0 case case0008 mean_dice 0.000000 mean_hd95 0.000000
+[09:48:04.676] idx 1 case case0022 mean_dice 0.000000 mean_hd95 0.000000
+[09:48:19.237] idx 2 case case0038 mean_dice 0.000000 mean_hd95 0.000000
+[09:48:44.342] idx 3 case case0036 mean_dice 0.000000 mean_hd95 0.000000
+[09:49:03.814] idx 4 case case0032 mean_dice 0.000000 mean_hd95 0.000000
+[09:49:22.156] idx 5 case case0002 mean_dice 0.000000 mean_hd95 0.000000
+[09:49:35.615] idx 6 case case0029 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:00.383] idx 7 case case0003 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:19.032] idx 8 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:36.791] idx 9 case case0004 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:48.471] idx 10 case case0025 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.379] idx 11 case case0035 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.425] Mean class 1 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.425] Mean class 2 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.426] Mean class 3 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.426] Mean class 4 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.426] Mean class 5 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.426] Mean class 6 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.427] Mean class 7 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.427] Mean class 8 mean_dice 0.000000 mean_hd95 0.000000
+[09:50:59.428] Testing performance in best val model: mean_dice : 0.000000 mean_hd95 : 0.000000
+[10:03:57.406] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:03:57.407] epoch_149.pth
+[10:03:57.677] 12 test iterations per epoch
+[10:04:16.367] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[10:04:32.781] idx 1 case case0002 mean_dice 0.000000 mean_hd95 0.000000
+[10:04:54.452] idx 2 case case0003 mean_dice 0.000000 mean_hd95 0.000000
+[10:05:10.206] idx 3 case case0004 mean_dice 0.000000 mean_hd95 0.000000
+[10:40:03.877] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:40:04.061] epoch_149.pth
+[10:40:04.264] 12 test iterations per epoch
+[10:40:59.153] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:40:59.155] epoch_149.pth
+[10:40:59.157] 12 test iterations per epoch
+[10:45:53.246] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:45:53.247] epoch_149.pth
+[10:45:53.250] 12 test iterations per epoch
+[10:47:24.432] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:47:24.433] epoch_149.pth
+[10:47:24.436] 12 test iterations per epoch
+[10:51:24.155] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:51:24.156] epoch_149.pth
+[10:51:24.158] 12 test iterations per epoch
+[10:51:55.272] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:51:55.273] epoch_149.pth
+[10:51:55.275] 12 test iterations per epoch
+[10:52:03.902] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:52:03.903] epoch_149.pth
+[10:52:03.906] 12 test iterations per epoch
+[10:53:03.822] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:53:03.823] epoch_149.pth
+[10:53:03.826] 12 test iterations per epoch
+[10:54:37.481] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:54:37.482] epoch_149.pth
+[10:54:37.485] 12 test iterations per epoch
+[10:56:00.408] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:56:00.409] epoch_149.pth
+[10:56:00.413] 12 test iterations per epoch
+[10:56:09.716] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:56:09.717] epoch_149.pth
+[10:56:09.719] 12 test iterations per epoch
+[10:56:49.935] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:56:49.936] epoch_149.pth
+[10:56:49.939] 12 test iterations per epoch
+[10:57:39.833] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[10:57:39.834] epoch_149.pth
+[10:57:39.836] 12 test iterations per epoch
+[11:01:57.422] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:01:57.434] epoch_149.pth
+[11:01:57.436] 12 test iterations per epoch
+[11:05:19.550] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:05:19.551] epoch_149.pth
+[11:05:19.554] 12 test iterations per epoch
+[11:06:43.895] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:06:43.896] epoch_149.pth
+[11:06:43.899] 12 test iterations per epoch
+[11:07:14.148] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:07:14.149] epoch_149.pth
+[11:07:14.152] 12 test iterations per epoch
+[11:07:23.618] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:07:23.619] epoch_149.pth
+[11:07:23.621] 12 test iterations per epoch
+[11:08:36.713] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:08:36.718] epoch_149.pth
+[11:08:36.725] 12 test iterations per epoch
+[11:08:59.591] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:08:59.592] epoch_149.pth
+[11:08:59.595] 12 test iterations per epoch
+[11:09:07.800] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:09:07.801] epoch_149.pth
+[11:09:07.804] 12 test iterations per epoch
+[11:10:09.148] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:10:09.150] epoch_149.pth
+[11:10:09.152] 12 test iterations per epoch
+[11:11:06.851] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:11:06.853] epoch_149.pth
+[11:11:06.855] 12 test iterations per epoch
+[11:11:46.925] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:11:46.926] epoch_149.pth
+[11:11:46.928] 12 test iterations per epoch
+[11:19:14.645] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:19:14.646] epoch_149.pth
+[11:19:14.648] 12 test iterations per epoch
+[11:20:21.283] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:20:21.299] epoch_149.pth
+[11:20:21.301] 12 test iterations per epoch
+[11:24:53.280] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:24:54.392] epoch_149.pth
+[11:24:55.489] 12 test iterations per epoch
+[11:30:59.672] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:30:59.674] epoch_149.pth
+[11:30:59.676] 12 test iterations per epoch
+[11:31:14.124] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:31:14.125] epoch_149.pth
+[11:31:14.127] 12 test iterations per epoch
+[11:40:59.679] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:40:59.680] epoch_149.pth
+[11:40:59.685] 12 test iterations per epoch
+[11:41:18.579] idx 0 case case0008 mean_dice 0.000000 mean_hd95 0.000000
+[11:41:30.442] idx 1 case case0022 mean_dice 0.000000 mean_hd95 0.000000
+[11:41:44.577] idx 2 case case0038 mean_dice 0.000000 mean_hd95 0.000000
+[11:42:08.685] idx 3 case case0036 mean_dice 0.000000 mean_hd95 0.000000
+[11:42:26.744] idx 4 case case0032 mean_dice 0.000000 mean_hd95 0.000000
+[11:42:44.038] idx 5 case case0002 mean_dice 0.000000 mean_hd95 0.000000
+[11:42:56.190] idx 6 case case0029 mean_dice 0.000000 mean_hd95 0.000000
+[11:43:18.730] idx 7 case case0003 mean_dice 0.000000 mean_hd95 0.000000
+[11:43:36.702] idx 8 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[11:43:53.073] idx 9 case case0004 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:04.176] idx 10 case case0025 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.785] idx 11 case case0035 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.835] Mean class 1 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.835] Mean class 2 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.836] Mean class 3 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.836] Mean class 4 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.836] Mean class 5 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.836] Mean class 6 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.837] Mean class 7 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.837] Mean class 8 mean_dice 0.000000 mean_hd95 0.000000
+[11:44:14.837] Testing performance in best val model: mean_dice : 0.000000 mean_hd95 : 0.000000
+[12:17:14.851] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:17:15.187] epoch_149.pth
+[12:17:16.033] 12 test iterations per epoch
+[12:20:15.849] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:20:15.850] epoch_149.pth
+[12:20:16.181] 12 test iterations per epoch
+[12:20:39.529] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[12:21:35.432] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:21:35.433] epoch_149.pth
+[12:21:35.716] 12 test iterations per epoch
+[12:21:59.329] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[12:22:29.994] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:22:29.995] epoch_149.pth
+[12:22:29.998] 12 test iterations per epoch
+[12:22:55.782] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:22:55.783] epoch_149.pth
+[12:22:55.785] 12 test iterations per epoch
+[12:23:14.661] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[12:25:27.353] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[12:25:27.354] epoch_149.pth
+[12:25:27.356] 12 test iterations per epoch
+[12:25:45.914] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[12:26:03.238] idx 1 case case0002 mean_dice 0.000000 mean_hd95 0.000000
+[12:26:26.242] idx 2 case case0003 mean_dice 0.000000 mean_hd95 0.000000
+[12:26:43.702] idx 3 case case0004 mean_dice 0.000000 mean_hd95 0.000000
+[14:50:41.585] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[14:50:41.804] epoch_149.pth
+[14:50:42.649] 12 test iterations per epoch
+[14:51:08.514] idx 0 case case0001 mean_dice 0.000000 mean_hd95 0.000000
+[14:51:27.511] idx 1 case case0002 mean_dice 0.000000 mean_hd95 0.000000
+[14:51:52.060] idx 2 case case0003 mean_dice 0.000000 mean_hd95 0.000000
+[14:52:10.338] idx 3 case case0004 mean_dice 0.000000 mean_hd95 0.000000
+[11:45:27.744] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[11:45:28.414] epoch_149.pth
+[11:45:30.378] 12 test iterations per epoch
+[11:48:20.628] idx 0 case case0008 mean_dice 0.561321 mean_hd95 24.886264
+[11:49:51.139] idx 1 case case0022 mean_dice 0.868998 mean_hd95 6.547959
+[11:51:34.327] idx 2 case case0038 mean_dice 0.748626 mean_hd95 8.896819
+[11:54:52.891] idx 3 case case0036 mean_dice 0.826552 mean_hd95 28.124375
+[11:57:31.265] idx 4 case case0032 mean_dice 0.855836 mean_hd95 6.540972
+[12:00:00.760] idx 5 case case0002 mean_dice 0.816055 mean_hd95 10.897509
+[12:01:47.388] idx 6 case case0029 mean_dice 0.724803 mean_hd95 23.958221
+[12:05:26.452] idx 7 case case0003 mean_dice 0.614196 mean_hd95 74.649533
+[12:08:07.803] idx 8 case case0001 mean_dice 0.713562 mean_hd95 31.927467
+[12:10:35.201] idx 9 case case0004 mean_dice 0.655327 mean_hd95 13.626059
+[12:12:06.835] idx 10 case case0025 mean_dice 0.797062 mean_hd95 18.571181
+[12:13:32.961] idx 11 case case0035 mean_dice 0.846520 mean_hd95 9.543070
+[12:13:33.014] Mean class 1 mean_dice 0.824712 mean_hd95 16.255339
+[12:13:33.014] Mean class 2 mean_dice 0.562075 mean_hd95 30.141394
+[12:13:33.016] Mean class 3 mean_dice 0.840640 mean_hd95 15.186969
+[12:13:33.016] Mean class 4 mean_dice 0.784187 mean_hd95 39.591599
+[12:13:33.016] Mean class 5 mean_dice 0.920268 mean_hd95 18.669027
+[12:13:33.016] Mean class 6 mean_dice 0.512772 mean_hd95 14.767229
+[12:13:33.016] Mean class 7 mean_dice 0.877559 mean_hd95 21.077879
+[12:13:33.017] Mean class 8 mean_dice 0.697025 mean_hd95 16.423516
+[12:13:33.017] Testing performance in best val model: mean_dice : 0.752405 mean_hd95 : 21.514119
+[13:37:16.884] Namespace(Dataset=<class 'datasets.dataset_synapse.Synapse_dataset'>, accumulation_steps=None, amp_opt_level='O1', base_lr=0.05, batch_size=24, cache_mode='part', cfg='TransUNet/configs/swin_tiny_patch4_window7_224_lite.yaml', dataset='Synapse', deterministic=1, eval=False, img_size=224, is_pretrain=True, is_savenii=True, list_dir='./lists/lists_Synapse', max_epochs=150, max_iterations=30000, num_classes=9, opts=None, output_dir='output', resume=None, seed=1234, tag=None, test_save_dir='../predictions', throughput=False, use_checkpoint=False, volume_path='data/Synapse/test_vol_h5', z_spacing=1, zip=False)
+[13:37:17.251] epoch_149.pth
+[13:37:17.462] 12 test iterations per epoch
+[13:40:06.009] idx 0 case case0008 mean_dice 0.630743 mean_hd95 16.103153
+[13:41:39.102] idx 1 case case0022 mean_dice 0.895896 mean_hd95 2.669805
+[13:43:26.076] idx 2 case case0038 mean_dice 0.810431 mean_hd95 10.028434
+[13:46:41.565] idx 3 case case0036 mean_dice 0.839544 mean_hd95 17.118374
+[13:49:05.249] idx 4 case case0032 mean_dice 0.875332 mean_hd95 6.108676
+[13:51:21.751] idx 5 case case0002 mean_dice 0.827065 mean_hd95 8.875320
+[13:53:00.533] idx 6 case case0029 mean_dice 0.676645 mean_hd95 59.992588
+[13:56:35.735] idx 7 case case0003 mean_dice 0.557981 mean_hd95 102.472105
+[13:59:14.058] idx 8 case case0001 mean_dice 0.755987 mean_hd95 20.253285
+[14:01:44.447] idx 9 case case0004 mean_dice 0.704588 mean_hd95 37.522198
+[14:03:12.613] idx 10 case case0025 mean_dice 0.800707 mean_hd95 22.456046
+[14:04:36.170] idx 11 case case0035 mean_dice 0.851593 mean_hd95 5.066271
+[14:04:36.241] Mean class 1 mean_dice 0.853545 mean_hd95 7.095818
+[14:04:36.241] Mean class 2 mean_dice 0.625262 mean_hd95 38.631334
+[14:04:36.241] Mean class 3 mean_dice 0.811244 mean_hd95 33.998574
+[14:04:36.242] Mean class 4 mean_dice 0.751730 mean_hd95 33.105737
+[14:04:36.242] Mean class 5 mean_dice 0.935798 mean_hd95 23.406778
+[14:04:36.242] Mean class 6 mean_dice 0.569976 mean_hd95 12.925390
+[14:04:36.242] Mean class 7 mean_dice 0.875304 mean_hd95 39.275486
+[14:04:36.242] Mean class 8 mean_dice 0.728149 mean_hd95 17.338385
+[14:04:36.242] Testing performance in best val model: mean_dice : 0.768876 mean_hd95 : 25.722188
