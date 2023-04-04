@@ -6,9 +6,13 @@ This repository contains code for training and testing a TransUNet model on Syna
 
 # Code Explanation
 CMD.ipynb: this notebook is used as a terminal to run the code.
+
 TransUNet: this folder contains the implementation of the TransUNet model.
+
 data: this folder contains the Synapse dataset.
+
 output: this folder will contain the saved model and test results.
+
 ## Training
 To train the model, run the following command in the CMD.ipynb notebook:
 
