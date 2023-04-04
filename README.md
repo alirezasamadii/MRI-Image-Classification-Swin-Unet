@@ -34,11 +34,15 @@ open_nii_gz('output/test_volumes/volume-0000.nii.gz', 'output/test_niis/volume-0
 The following are the main parts of the code along with their subparts:
 
 CMD.ipynb is used as terminal :D
+
 trainer
+
 train
+
 test
+
 results visualization (implemented by me, it was missing in the original code by the author)
-Note
-The original code was designed to run for 150 epochs on a Colab GPU, which takes around 6 hours to complete. 
+
+Note: The original code was designed to run for 150 epochs on a Colab GPU, which takes around 6 hours to complete. 
 
 ## Dont use this code for self diagnosing 
