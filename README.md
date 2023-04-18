@@ -1,4 +1,4 @@
-# MRI-Image-Segmentation-Swin-Unet
+# MRI-Image-Classification-Swin-Unet
 
 
 # Introduction
